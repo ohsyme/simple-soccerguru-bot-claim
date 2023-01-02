@@ -1,0 +1,16 @@
+{
+  "name": "simple-soccerguru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "discord.js-selfbot-v13": "^2.6.12",
+    "node-os-utils": "^1.3.7"
+  }
+}
