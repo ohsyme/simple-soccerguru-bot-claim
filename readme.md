@@ -1,4 +1,5 @@
 # Simple-AutoClaim-SoccerGuru
+still works at 03/25
 ## DISCLAIMER
 I don't take any responsibility for blocked Discord accounts that used this cheat. If you try to use it, you'll either get banned from Discord, because self-bots are against the TOS, or you'll be banned from the Soccerguru bot.
 I had never gain profit from the selling of this software and I'm posting it just to display something on my GitHub.
@@ -27,4 +28,4 @@ This Just AutoClaim bot so you dont need to always active
 8. run the bot with this command : pm2 start index.js
 9. your bot will running
 
-If you have questions, text me on Discord: ohsyme#0001
+if you have question or something buggy please create issue
